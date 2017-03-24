@@ -3,9 +3,9 @@ VERSION=0.2.3.2
 RELEASE=1
 
 CATEGORY="Python"
-SUMMARY="Python implementation of Tarjan’s algorithm"
+SUMMARY="Python implementation of Tarjan's algorithm"
 DESCRIPTION="
-This is a Python implementation of Tarjan’s algorithm.  Tarjan’s
+This is a Python implementation of Tarjan's algorithm.  Tarjan's
 algorithm takes as input a directed (possibly cyclic!) graph and
 returns as output its strongly connected components in a topological
 order."
